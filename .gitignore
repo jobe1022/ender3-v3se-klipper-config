@@ -1,0 +1,4 @@
+*.backup
+*.bkp
+printer-*.cfg
+timelapse.cfg
